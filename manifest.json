@@ -1,0 +1,10 @@
+{
+  "domain": "Petkit_W5BLEMQTT_integration",
+  "name": "Petkit_W5BLEMQTT_integration",
+  "version": "1.0.0",
+  "documentation": "https://github.com/kosh12/Petkit_W5BLEMQTT_integration",
+  "dependencies": [],
+  "codeowners": ["@kosh12"],
+  "requirements": ["bleak", "paho-mqtt"],
+  "iot_class": "local_polling"
+}
