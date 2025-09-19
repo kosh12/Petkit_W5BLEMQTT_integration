@@ -1,11 +1,11 @@
 {
   "domain": "petkit_w5_ble",
-  "name": "petkit_w5_ble",
+  "name": "Petkit W5 BLE MQTT",
   "version": "1.0.0",
   "documentation": "https://github.com/kosh12/Petkit_W5BLEMQTT_integration",
   "dependencies": [],
   "codeowners": ["@kosh12"],
   "requirements": ["bleak>=0.20.0", "paho-mqtt>=1.6.0"],
-  "iot_class": "local_polling"
+  "iot_class": "local_polling",
   "config_flow": true
 }
